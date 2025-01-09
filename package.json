@@ -1,0 +1,21 @@
+{
+  "name": "crypto-labs",
+  "version": "0.0.1",
+  "description": "[Kriptovalute] Laboratorijske vježbe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kriptovalute",
+    "vjezbe",
+    "crypto",
+    "labs"
+  ],
+  "author": "Anamarija Papić",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoin-core": "^4.2.0",
+    "dotenv": "^16.4.5"
+  }
+}
